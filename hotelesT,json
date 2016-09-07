@@ -1,0 +1,57 @@
+{
+  "hoteles": {
+   "apiversion":0.1,
+      "placesListHoteles":[
+    {
+      "placeId":0,
+      "placeName": "Boca Olas Resort Villas",
+     
+          "latitude": 13.4936077,
+          "longitude": -89.3825111
+       
+      },
+    {
+      "placeId":1,
+      "placeName": "Real InterContinental San Salvador",
+     
+          "latitude": 13.7075548,
+          "longitude": -89.2124356
+          
+    },
+    {
+      "placeId":2,
+      "placeName": "Crowne Plaza Hotel San Salvador",
+      
+          "latitude": 13.7092147,
+          "longitude": -89.2425628
+          
+    },
+    {
+      "placeId":3,
+      "placeName": "Barceló San Salvado",
+      
+          "latitude": 13.6928313,
+          "longitude": -89.2398566
+         
+    },
+    {
+      "placeId":4,
+      "placeName": "Los Almendros De San Lorenzo",
+      
+          "latitude": 13.9379408,
+          "longitude": -89.0282678
+         
+    },
+    {
+      "placeId":5,
+      "placeName": "Courtyard San Salvador",
+       
+          "latitude": 13.6771052,
+          "longitude": -89.2581487
+       
+    },
+    
+    
+  ]
+  }
+}
